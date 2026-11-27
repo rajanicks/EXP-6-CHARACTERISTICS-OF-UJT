@@ -1,7 +1,7 @@
 # EXP-6-CHARACTERISTICS-OF-UJT
 1. AIM
 To plot the characteristics of UJT (2N2446) and to determine the intrinsic stand-off ratio from the graph.
-2. APPARATUS REQUIRED
+2. SOFTWARE REQUIRED
 3. LT spice.
 4. THEORY
 UJT is the Uni Junction Transistor. It is a three-terminal device. The three terminals are emitter, base 1 and base 2. The equivalent circuit consists of two resistors, one variable resistor and one fixed resistor. The ratio of internal resistance is referred to as intrinsic stand-off ratio (η). It is defined as the ratio of the variable resistance to the total resistance.
@@ -10,6 +10,7 @@ When the device is turned on, holes move from emitter to base resulting in a cur
 5. Spice Code for UJT Relaxation oscillator
 6. <img width="1920" height="1080" alt="AdobeExpressPhotos_c05fa61af71e4c8e8e70b8b7c8202ffc_CopyEdited" src="https://github.com/user-attachments/assets/88964fb0-1498-4c8c-b143-78fd542a5517" />
 6. UJT CHARACTERISTIC CURVE
+7. The Emitter characteristic is plotted between emitter voltage VE and emitter current IE .The curve contains the cut-off region,peak point, negative resistance region, valley point and saturation region. 
 <img width="1920" height="1080" alt="Screenshot 2026-11-27 085244" src="https://github.com/user-attachments/assets/76241cfc-da15-412b-a9b1-4ac2a5a6d62b" />
 <img width="1920" height="1080" alt="Screenshot 2026-11-27 091146" src="https://github.com/user-attachments/assets/cf012d1f-e590-423f-ae83-eaa27d6734c2" />
 
